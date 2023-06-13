@@ -75,6 +75,7 @@ void staffInfo(string &name, string &staffID, string &password){
 		} else if (p == '\b') {  // Handle Backspace key
 			if (!password.empty()) {
 				cout << "\b \b";
+				//password.pop_back();
 				password.pop_back();
 			}
 		} else {
