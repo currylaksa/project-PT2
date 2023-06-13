@@ -1,4 +1,16 @@
-
+#include <iostream>
+#include <stdlib.h>
+#include <fstream>
+#include <string>
+#include <conio.h>
+#include "Complain.h"
+#include "Arcade.h"
+#include "Faculty.h"
+#include "Hostel.h"
+#include "Other.h"
+#include "User.h"
+#include "Student.h"
+#include "Staff.h"
 
 using namespace std;
 
